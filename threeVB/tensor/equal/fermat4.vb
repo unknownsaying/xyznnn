@@ -1,0 +1,1 @@
+Nulltensor = Ntensor + NNtensor + NNNtensor
